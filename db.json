@@ -1,16 +1,68 @@
 {
-  "posts":[
+  "tillage": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "value": "no-till"
+    },
+    {
+      "id": 2,
+      "value": null
+    },
+    {
+      "id": 3,
+      "value": null
+    },
+    {
+      "id": 4,
+      "value": null
+    },
+    {
+      "id": 5,
+      "value": "conventional"
     }
   ],
-  "comments" : [
+  "irrigation": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "value": false
+    },
+    {
+      "id": 2,
+      "value": false
+    },
+    {
+      "id": 3,
+      "value": false
+    },
+    {
+      "id": 4,
+      "value": false
+    },
+    {
+      "id": 5,
+      "value": true
+    }
+  ],
+  "nitrogen": [
+    {
+      "id": 1,
+      "value": 5
+    },
+    {
+      "id": 2,
+      "value": 5
+    },
+    {
+      "id": 3,
+      "value": 1
+    },
+    {
+      "id": 4,
+      "value": null
+    },
+    {
+      "id": 5,
+      "value": null
     }
   ]
 }
