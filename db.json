@@ -43,6 +43,28 @@
       "value": true
     }
   ],
+  "drainage": [
+    {
+      "id": 1,
+      "value": false
+    },
+    {
+      "id": 2,
+      "value": true
+    },
+    {
+      "id": 3,
+      "value": null
+    },
+    {
+      "id": 4,
+      "value": false
+    },
+    {
+      "id": 5,
+      "value": true
+    }
+  ],
   "nitrogen": [
     {
       "id": 1,
