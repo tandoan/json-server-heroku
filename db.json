@@ -2,88 +2,109 @@
   "tillage": [
     {
       "id": 1,
+      "name": "Mom's 25",
       "value": "no-till"
     },
     {
       "id": 2,
+      "name": "Mom's 88",
       "value": null
     },
     {
       "id": 3,
+      "name": "Mom's East 32",
       "value": null
     },
     {
       "id": 4,
+      "name": "Mom's North 42",
       "value": null
     },
     {
       "id": 5,
+      "name": "Mom's South 40",
       "value": "conventional"
     }
   ],
   "irrigation": [
     {
       "id": 1,
+      "name": "Mom's 25",
       "value": false
     },
     {
       "id": 2,
+      "name": "Mom's 88",
       "value": null
     },
     {
       "id": 3,
+      "name": "Mom's East 32",
       "value": null
     },
     {
       "id": 4,
+      "name": "Mom's North 42",
       "value": false
     },
     {
       "id": 5,
+      "name": "Mom's South 40",
       "value": true
     }
   ],
   "drainage": [
     {
       "id": 1,
+      "name": "Mom's 25",
       "value": false
     },
     {
       "id": 2,
+      "name": "Mom's 88",
       "value": true
     },
     {
       "id": 3,
+      "name": "Mom's East 32",
       "value": null
     },
     {
       "id": 4,
+      "name": "Mom's North 42",
       "value": false
     },
     {
       "id": 5,
+      "name": "Mom's South 40",
       "value": true
     }
   ],
   "nitrogen": [
     {
       "id": 1,
+      "name": "Mom's 25",
       "value": 5
     },
     {
       "id": 2,
+      "name": "Mom's 88",
+
       "value": 5
     },
     {
       "id": 3,
+      "name": "Mom's East 32",
       "value": 1
     },
     {
       "id": 4,
+      "name": "Mom's North 42",
       "value": null
     },
     {
       "id": 5,
+      "name": "Mom's South 40",
       "value": null
     }
   ],
